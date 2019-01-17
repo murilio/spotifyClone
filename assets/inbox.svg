@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="12px" viewBox="0 0 15 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>messages</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="spotify-001" transform="translate(-1217.000000, -18.000000)" fill="#ADAFB2">
+            <path d="M1227.396,25.087 C1227.125,25.087 1226.892,25.28 1226.842,25.547 L1226.393,27.951 L1221.666,27.951 L1221.217,25.547 C1221.168,25.28 1220.935,25.087 1220.663,25.087 L1217.761,25.087 L1219.865,18.75 L1228.194,18.75 L1230.298,25.087 L1227.396,25.087 Z M1228.736,18 L1219.324,18 L1217,25 L1217,29.774 L1231.06,29.774 L1231.06,25 L1228.736,18 Z" id="messages"></path>
+        </g>
+    </g>
+</svg>
