@@ -1,1 +1,3 @@
 Spotify clone, using html and scss...
+
+Link to view: https://murilio.github.io/spotifyClone/index.html
