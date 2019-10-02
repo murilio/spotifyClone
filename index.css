@@ -1,7 +1,4 @@
-/*** SCSS RESET 
-    Imagem (cima) 212x212
-    Imagem (baixo) 211x211
-***/
+/*** SCSS RESET primeira imagem (cima) 212x212 peimeira imagem (baixo) 211x211 ***/
 * {
   margin: 0;
   padding: 0;
@@ -81,7 +78,7 @@ header .headerNavigation input {
   padding: 0 15px 0 30px;
   width: 240px;
   outline: none;
-  background-image: url("/assets/search.svg");
+  background-image: url('/assets/search.svg');
   background-repeat: no-repeat;
   background-size: 15px;
   background-position: 10px;
@@ -319,7 +316,7 @@ section .containerMenu .playlist .playlistItem div div {
   text-align: center;
   font-size: 18px;
   opacity: 0.8;
-  background-image: url("assets/wallpaper.jpg");
+  background-image: url('assets/wallpaper.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom center;
@@ -374,7 +371,7 @@ section .containerMenu .playlist .playlistItem div div {
   text-align: center;
   font-size: 18px;
   opacity: 0.8;
-  background-image: url("assets/wallpaper2.jpg");
+  background-image: url('assets/wallpaper2.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom center;
@@ -429,7 +426,7 @@ section .containerMenu .playlist .playlistItem div div {
   text-align: center;
   font-size: 18px;
   opacity: 0.8;
-  background-image: url("assets/wallpaper3.jpg");
+  background-image: url('assets/wallpaper3.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom center;
@@ -485,7 +482,7 @@ section .containerMenu .playlist .playlistItem div div {
   text-align: center;
   font-size: 18px;
   opacity: 0.8;
-  background-image: url("assets/wallpaper4.jpg");
+  background-image: url('assets/wallpaper4.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom center;
@@ -542,7 +539,7 @@ section .containerMenu .playlist .playlistItem div div {
   margin-bottom: 6px;
   width: 100%;
   height: 210px;
-  background-image: url("assets/bg.png");
+  background-image: url('assets/bg.png');
 }
 
 .asideMenuRight .rightMenuFistItem span {
@@ -715,5 +712,3 @@ footer .actions .volume progress::-moz-progress-bar {
   background-color: #fff;
   border-radius: 15px;
 }
-
-/*# sourceMappingURL=index.css.map */
